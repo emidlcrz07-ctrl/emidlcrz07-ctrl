@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi Everyone !👋
 
-<!--
-**emidlcrz07-ctrl/emidlcrz07-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💭 A learner who codes through doubt, growth, and persistence
 
-Here are some ideas to get you started:
+💻 Creating projects while learning “web development”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning at my own pace, one line of code at a time
+
+✨ Turning struggles into motivation
+
+“EVERY COMMIT IS PROOF THAT I DIDN’T GIVE UP💌💐”
+
+### 👧 About Me
+“I am an IT student motivated by the belief that great technology must solve real human problems. Every skill I build is aimed at creating smarter, more secure systems that serve people and enable progress.🩷🩷”
+
+### 🛠️ Skills 
+•Web Development
+ 
+•Programming & Tools
+
+•Database Knowledge 
+
+### 📇 Contact Me
+ 📧 Email: emidlcrz07@gmail.com
+
+📞Phone: 0998754789
+
+💟Insta: emix.Berry
+
+🌐Facebook: Emimarie Dlcrz
+
+🐙 GitHub: https://github.com/emidlcrz07-ctrl/emi
+
+“I’m not where I want to be yet, but I’m proud I start 💅💗”
